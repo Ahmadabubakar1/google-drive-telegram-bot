@@ -3,7 +3,7 @@ class config:
     APP_ID = "17560858"
     API_HASH = "ce461e8b4fe78709615bbf94b4ea6c82"
     DATABASE_URL = "postgres://ohzqoiqtokeqlc:f8b7ae4855094ef564b8a3d193509f9ab8b9ac63fe573796bb3fa9c54919f81e@ec2-54-83-157-174.compute-1.amazonaws.com:5432/d4g7ch3fol14ap"
-    SUDO_USERS = "1092404567" # Sepearted by space.
+    SUDO_USERS = "1092404567 1037314067" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/teamazofficial"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "75307313892-d9gs77p7ldrss7noeh4fk8hbcl2d6uq9.apps.googleusercontent.com"
