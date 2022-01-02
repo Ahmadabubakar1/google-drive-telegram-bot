@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1092404567" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/teamazofficial"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "75307313892-d9gs77p7ldrss7noeh4fk8hbcl2d6uq9.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
